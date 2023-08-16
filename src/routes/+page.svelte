@@ -1,5 +1,5 @@
 <div class="flex-1 flex flex-col min-h-[795px]">
-	<div aria-label="page" class="flex-1 flex items-center">
+	<div aria-label="page" class="flex items-center flex-1">
 		<div class="flex flex-col items-start gap-4">
 			<h1 class="md:text-6xl text-5xl font-extrabold max-w-[80%] w-full">
 				Welcome! I am a software developer based in Scandinavia
@@ -22,11 +22,11 @@
 	</div>
 </div>
 <div class="flex-1 flex flex-col min-h-[795px]">
-	<div aria-label="page" class="flex-1 flex items-start">
+	<div aria-label="page" class="flex items-start flex-1">
 		<div class="flex flex-col items-start gap-12">
-			<h1 class="md:text-5xl text-4xl font-bold w-full">These are my various projects!</h1>
+			<h1 class="w-full text-4xl font-bold md:text-5xl">These are my various projects!</h1>
 			<ul class="flex flex-col gap-32">
-				<li class="flex-1 flex flex-col gap-4">
+				<li class="flex flex-col flex-1 gap-4">
 					<a
 						class="md:text-2xl text-xl underline decoration-dotted decoration-[1px] underline-offset-2"
 						href="https://github.com/barrybtw/aktiesparekonto"
@@ -38,7 +38,7 @@
 					</a>
 					<div class="flex flex-row justify-between gap-6 lg:flex-col xl:flex-row">
 						<div class="flex flex-col">
-							<div aria-label="text-content" class="space-y-4 flex-1">
+							<div aria-label="text-content" class="flex-1 space-y-4">
 								<p>
 									A project built with Next.js' app directory, the ui is put together with <a
 										href="https://www.radix-ui.com/"
@@ -72,11 +72,11 @@
 						<img
 							src="/aktiesparekonto.png"
 							alt="project"
-							class="rounded-md ring-1 w-1/2 hidden lg:block xl:w-1/2 lg:w-full"
+							class="hidden w-1/2 rounded-md ring-1 lg:block xl:w-1/2 lg:w-full"
 						/>
 					</div>
 				</li>
-				<li class="flex-1 flex flex-col gap-4">
+				<li class="flex flex-col flex-1 gap-4">
 					<a
 						class="md:text-2xl text-xl underline decoration-dotted decoration-[1px] underline-offset-2"
 						href="https://github.com/barrybtw/create-drippy-api"
@@ -88,7 +88,7 @@
 					</a>
 					<div class="flex flex-row justify-between gap-6 lg:flex-col xl:flex-row">
 						<div class="flex flex-col">
-							<div aria-label="text-content" class="space-y-4 flex-1">
+							<div aria-label="text-content" class="flex-1 space-y-4">
 								<p>
 									A command-line-interface, better known as a CLI built with <a
 										href="https://github.com/microsoft/TypeScript"
@@ -148,7 +148,7 @@
 						<img
 							src="/drippy-api.png"
 							alt="project"
-							class="rounded-md ring-1 w-1/2 hidden lg:block xl:w-1/2 lg:w-full"
+							class="hidden w-1/2 rounded-md ring-1 lg:block xl:w-1/2 lg:w-full"
 						/>
 					</div>
 				</li>
