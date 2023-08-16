@@ -1,6 +1,6 @@
 <div class="flex-1 flex flex-col min-h-[795px]">
 	<div aria-label="page" class="flex items-center flex-1">
-		<div class="flex flex-col items-start gap-4">
+		<div class="flex flex-col items-start gap-8">
 			<h1 class="md:text-6xl text-5xl font-extrabold max-w-[80%] w-full">
 				Welcome! I am a software developer based in Scandinavia
 			</h1>
@@ -23,7 +23,7 @@
 </div>
 <div class="flex-1 flex flex-col min-h-[795px]">
 	<div aria-label="page" class="flex items-start flex-1">
-		<div class="flex flex-col items-start gap-12">
+		<div class="flex flex-col items-start gap-16">
 			<h1 class="w-full text-4xl font-bold md:text-5xl">These are my various projects!</h1>
 			<ul class="flex flex-col gap-32">
 				<li class="flex flex-col flex-1 gap-8">
