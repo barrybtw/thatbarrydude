@@ -26,7 +26,7 @@
 		<div class="flex flex-col items-start gap-12">
 			<h1 class="w-full text-4xl font-bold md:text-5xl">These are my various projects!</h1>
 			<ul class="flex flex-col gap-32">
-				<li class="flex flex-col flex-1 gap-4">
+				<li class="flex flex-col flex-1 gap-8">
 					<a
 						class="md:text-2xl text-xl underline decoration-dotted decoration-[1px] underline-offset-2"
 						href="https://github.com/barrybtw/aktiesparekonto"
@@ -36,7 +36,7 @@
 					>
 						Stock calculator
 					</a>
-					<div class="flex flex-row justify-between gap-6 lg:flex-col xl:flex-row">
+					<div class="flex flex-row justify-between gap-8 lg:flex-col xl:flex-row">
 						<div class="flex flex-col">
 							<div aria-label="text-content" class="flex-1 space-y-4">
 								<p>
@@ -76,7 +76,7 @@
 						/>
 					</div>
 				</li>
-				<li class="flex flex-col flex-1 gap-4">
+				<li class="flex flex-col flex-1 gap-8">
 					<a
 						class="md:text-2xl text-xl underline decoration-dotted decoration-[1px] underline-offset-2"
 						href="https://github.com/barrybtw/create-drippy-api"
@@ -86,7 +86,7 @@
 					>
 						create-drippy-api
 					</a>
-					<div class="flex flex-row justify-between gap-6 lg:flex-col xl:flex-row">
+					<div class="flex flex-row justify-between gap-8 lg:flex-col xl:flex-row">
 						<div class="flex flex-col">
 							<div aria-label="text-content" class="flex-1 space-y-4">
 								<p>
